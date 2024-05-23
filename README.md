@@ -5,7 +5,7 @@
 <img alt="coding" width="400px" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
 </p>
 
-- 🌱 I’m currently learning **Docker, Systems design and architecture**
+- 🌱 I’m currently learning **AWS, Systems design and architecture**
 
 - 💬 Ask me about **SQL, backend services, APIs**
 
