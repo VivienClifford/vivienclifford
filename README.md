@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivien</h1>
-<h3 align="center">Software Developer from the Sydney, NSW Australia</h3>
+<h3 align="center">Software Developer from Sydney, NSW Australia</h3>
 
 <p align="center">
 <img alt="coding" width="400px" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
